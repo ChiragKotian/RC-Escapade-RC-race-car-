@@ -2,7 +2,7 @@
 We made an RC car for the event, RC-Escapade, conducted by the Robotics Club of our institute, Techmaniacs. 
 
 ## Car's engineering aspect:
-The major engineering constraint while making the car was the unavailability of professional RC race car components and a limited budget of Rs.15000. Hence, every part of the car had to be indigenously and salvaging some parts.
+The major engineering constraint while making the car was the **_unavailability of professional RC race car components_** and a **_limited budget of Rs.15000_**. Hence, every part of the car had to be **_indigenously_** and **_salvaging_** some parts.
 
 This car used was throttled by a _**DYS D3548-4 1100kv BLDC Motor**_ controlled by **_Readytosky 80A ESC 2-6S Brushless ESC Speed Controller_** controlled by the user via a **_Flysky FS-GT2 Transmitter via FS-GR3E Receiver_**. The motor was connected to the axle using **_a belt and pulley mechanism_**, which increased torque output due to a **_gear ratio of 1:3.75_**. The **_belt was always kept taut_** regardless of wear and tear by the **_auto tension mechanism designed and implemented by us_**. The car's steering used **_Ackerman steering_** made by us from metal plates, fasteners and plastic spacers powered by a **_TowerPro MG995 Plastic Gear Servo Motor_** with a torque of **_12kg-cm_**. The body of the car was divided into **_three sections_**, **_two lower sections_** supported by **_two suspensions_** each connected to the main chassis, one housing the **_steering mechanism_** and the other housing the **_traction_**. The last section was the **_top section_**, connected directly to the metal chassis housing the **_electronics_**. 
 
@@ -12,6 +12,12 @@ This car used was throttled by a _**DYS D3548-4 1100kv BLDC Motor**_ controlled 
 _Design document_: [Find google docs link here](https://docs.google.com/document/d/1mbKo6WWxaJJa9_PcJH3QffFJdrASKCd1eJnjYxW_ynk/edit)
 
 ## Car motor throttle test:
+
+https://github.com/ChiragKotian/RC-Escapade-RC-race-car-/assets/117931123/70f814f1-f3b3-4f2c-8541-14d254a1cd4f
+
+## Car testing:
+
+https://github.com/ChiragKotian/RC-Escapade-RC-race-car-/assets/117931123/c999f3ed-42aa-4653-9414-9ee015741235
 
 
 ## Race-Car compilation video:
