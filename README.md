@@ -20,7 +20,7 @@ Here is a **snippet from the Race**.
 
 https://github.com/ChiragKotian/RC-Escapade-RC-race-car-/assets/117931123/468db8cb-9e63-4bdc-a178-b47110b1bc26
 
-Here is the **POV** of our car: ![Checkout the video on my youtube channel](https://youtu.be/0WGOJq9AI0c)
+Here is the **POV** of our car: [Checkout the video on my youtube channel](https://youtu.be/0WGOJq9AI0c)
 
 ## Results:
 In this competition, our team won the _**First Prize**_ by defeating all the teams in the races.
