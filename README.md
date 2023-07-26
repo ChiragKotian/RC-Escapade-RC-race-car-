@@ -13,9 +13,12 @@ This car used was throttled by a _**DYS D3548-4 1100kv BLDC Motor**_ controlled 
 ## Car Specifications:
 _Design document_: [Find google docs link here](https://docs.google.com/document/d/1mbKo6WWxaJJa9_PcJH3QffFJdrASKCd1eJnjYxW_ynk/edit)
 
+![rcracecar](https://github.com/ChiragKotian/RC-Escapade-RC-race-car-/assets/117931123/2d70fb81-43bb-487b-ac71-511a3f097572)
+
 ## Car motor throttle test:
 
 https://github.com/ChiragKotian/RC-Escapade-RC-race-car-/assets/117931123/70f814f1-f3b3-4f2c-8541-14d254a1cd4f
+
 
 ## Car testing:
 
@@ -23,7 +26,7 @@ https://github.com/ChiragKotian/RC-Escapade-RC-race-car-/assets/117931123/c999f3
 
 
 ## Race-Car compilation video:
-[![Checkout the video on my youtube channel](https://i9.ytimg.com/vi/mxVWriNiuYU/maxresdefault.jpg?v=6461bd14&sqp=CPj3hKYG&rs=AOn4CLATCyANZZbkOUVaLEEWIf3TwT4aqg)](https://youtu.be/mxVWriNiuYU)
+[Checkout the video on my youtube channel](https://youtu.be/mxVWriNiuYU)
 
 ## Race Track: 
 ![RAce track](https://github.com/ChiragKotian/RC-Escapade-RC-race-car-/assets/117931123/e83744fe-457b-4a6e-9eee-76aa8902e929)
